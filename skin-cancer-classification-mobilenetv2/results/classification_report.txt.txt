@@ -1,0 +1,8 @@
+Overall Accuracy: 96.24%
+Images Used: 10015
+Number of Classes: 7
+
+Overall Accuracy: 96.24%
+Number of images: 10015
+Classes: bkl, nv, df, mel, vasc, bcc, akiec
+Weighted Precision / Recall / F1-score: 0.96 / 0.96 / 0.96
