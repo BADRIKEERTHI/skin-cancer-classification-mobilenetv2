@@ -21,7 +21,7 @@ Deep learning-based skin cancer classification using MobileNetV2 with 96% accura
 ![Confusion Matrix](skin-cancer-classification-mobilenetv2/results/confusion_matrix.png)
 ![ROC Curve](skin-cancer-classification-mobilenetv2/results/roccurve.png)
 ![Curves](skin-cancer-classification-mobilenetv2/results/curves.png)
-![Curves](skin-cancer-classification-mobilenetv2/results/curve1.png)
+![Curve](skin-cancer-classification-mobilenetv2/results/curve1.png)
 ![Sample_Predicitions](skin-cancer-classification-mobilenetv2/results/samplepredictions.png)
 
 ## 🚀 Project Overview
